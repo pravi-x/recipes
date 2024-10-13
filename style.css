@@ -1,0 +1,44 @@
+* {
+    font-family: Papyrus, "Lucida Handwriting","Brush Script MT" ,Cursive;
+}
+
+body {
+    background-color: #8d0808f1;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    background-color: black;
+    font-size: 60px;
+    color: #8d0808;
+    text-align: center;
+    position:sticky;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    height: auto;
+    width: 50%;
+}
+
+h2,p,ul,li {
+    color: #ffffff;
+}
+
+h2 {
+    background-color: rgba(0, 0, 0, 0.692);
+
+}
+
+a {
+    color: #ffffff;
+}
+
+a:hover {
+    color: #0e0d0d;
+}
+#return{
+    text-align: center;
+}
