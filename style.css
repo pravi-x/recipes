@@ -6,6 +6,7 @@ body {
     background-color: #8d0808f1;
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 h1 {
@@ -23,17 +24,17 @@ img {
     width: 50%;
 }
 
-h2,p,ul,li {
+h2,p{
+    color: #ffffff;
+    padding: 30px;
+}
+ul,li,a {
     color: #ffffff;
 }
 
 h2 {
     background-color: rgba(0, 0, 0, 0.692);
 
-}
-
-a {
-    color: #ffffff;
 }
 
 a:hover {
